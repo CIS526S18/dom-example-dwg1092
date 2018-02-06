@@ -1,0 +1,12 @@
+[
+    {
+        "name" : "Nathan Bean",
+        "eid"  : "nbean@ksu.edu",
+        "description":  "A funky guy"
+    },
+    {
+        "name" :    "John Snow",
+        "eid"  :    "jsnow@nightwatch.edu",
+        "description" : "King in the Norf"
+    }
+]
